@@ -18,7 +18,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-<h2>Запуск тестов:</h2>
+<h2>Запуск тестов</h2>
 <h3>1. Запустите тесты:</h3>
 
 ```
